@@ -26,6 +26,7 @@ To run this project, install the required dependencies:
 
 ```sh
 pip install numpy pandas matplotlib seaborn scikit-learn xgboost
+```sh
 
 ## Usage 
 git clone https://github.com/your-username/ensemble-learning.git
